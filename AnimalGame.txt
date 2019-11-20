@@ -1,0 +1,6 @@
+Guessing Game, are you ready?
+1 Is it a mammal
+0 Trout
+1 Does it bark?
+0 Cow
+0 Dog
