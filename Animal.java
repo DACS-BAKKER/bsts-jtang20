@@ -222,14 +222,6 @@ public class Animal{
             return contents;
         }
 
-        /** Convert a guess node to a question node
-         *	Precondition: the node currently represents a guess
-         *
-         *	@param question the question to ask
-         *	@param ifNo the subtree to go into if user answers no
-         *	@param ifYes the subtree to go into if user answers yes
-         */
-
         void convertToQuestion(String question, Node ifNo, Node ifYes){ //Convert a guess node to a question node
             isQuestion = true;
             contents = question;
